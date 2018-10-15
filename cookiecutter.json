@@ -1,0 +1,5 @@
+{
+    "service_name": "my-terraservice-instance",
+    "environment": "development",
+    "region": "eu-west-1"
+}
